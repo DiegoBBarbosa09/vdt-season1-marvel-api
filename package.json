@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/DiegoBBarbosa09/vdt-season1-marvel-api#readme",
   "devDependencies": {
+    "@bahmutov/cy-api": "^2.2.0",
     "cypress": "9.1"
   }
 }
